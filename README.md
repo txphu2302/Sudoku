@@ -34,12 +34,12 @@ pip install -r requirements.txt
 
 1. Clone hoặc tải dự án về máy:
 ```
-git clone <đường-dẫn-repository>
+git clone https://github.com/txphu2302/Sudoku
 ```
 
 2. Di chuyển vào thư mục dự án:
 ```
-cd <tên-thư-mục-dự-án>
+cd sudoku
 ```
 
 3. Cài đặt các thư viện phụ thuộc:
