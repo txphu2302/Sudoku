@@ -152,16 +152,6 @@ sudoku-game/
 3. Nhấn nút "Solve" để xem giải thuật di truyền giải câu đố
 4. Quan sát quá trình giải diễn ra theo thời gian thực
 
-## Cải Tiến Trong Tương Lai
-
-- Thêm thống kê thời gian để so sánh các phương pháp giải
-- Triển khai tạo câu đố
-- Thêm nhiều giải thuật giải hơn
-- Cải thiện giao diện và thêm hiệu ứng động
-- Thêm khả năng lưu/tải câu đố
-- Tính năng gợi ý cho người chơi
-- Hỗ trợ đa ngôn ngữ
-
 ## Đóng Góp
 
 Mọi đóng góp đều được hoan nghênh! Vui lòng tạo pull request hoặc báo cáo vấn đề nếu bạn phát hiện lỗi hoặc có ý tưởng cải tiến.
